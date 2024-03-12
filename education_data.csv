@@ -1,0 +1,7 @@
+EducationLevel,YearsOfStudy,GPA,EmploymentStatus,Income
+High School,12,3.5,Employed,50000
+Bachelor's,16,3.9,Unemployed,0
+Master's,18,4.0,Employed,75000
+Ph.D.,20,3.8,Employed,80000
+High School,11,3.2,Unemployed,0
+Bachelor's,15,3.7,Employed,60000

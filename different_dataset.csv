@@ -1,0 +1,11 @@
+ID,Age,Salary,Experience,Education,Country,Skills,Job_Title
+101,35,103321,7.1745753192956085,High School,Germany,"['Python', 'Communication']",Business Analyst
+102,24,55664,11.593940274516465,High School,Germany,"['Java', 'Python', 'SQL']",Data Engineer
+103,24,83710,4.3723924958955,Bachelor's,Germany,"['Data Analysis', 'Machine Learning', 'SQL', 'Communication', 'Python']",Data Scientist
+104,28,105520,4.280872829917403,High School,USA,"['SQL', 'Data Analysis', 'Machine Learning', 'Java']",AI Engineer
+105,39,50111,8.910167859943899,Ph.D.,Canada,"['Python', 'Machine Learning', 'Data Analysis', 'Communication']",Data Engineer
+106,32,86249,8.91375863225926,High School,USA,"['Data Analysis', 'Communication', 'Machine Learning', 'SQL', 'Problem Solving']",Business Analyst
+107,23,67747,10.247212461167173,Master's,Canada,"['Problem Solving', 'Communication']",Research Scientist
+108,22,85662,13.042613323011265,Bachelor's,USA,"['Communication', 'Python', 'Machine Learning']",Research Scientist
+109,39,53325,11.417919223188258,Ph.D.,Germany,"['Java', 'SQL', 'Communication', 'Machine Learning']",Business Analyst
+110,37,81140,9.943305638808578,High School,Canada,"['Communication', 'Machine Learning']",AI Engineer
